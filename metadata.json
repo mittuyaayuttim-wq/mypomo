@@ -1,0 +1,8 @@
+{
+  "name": "mypomo",
+  "description": "Cute, cozy, and aesthetic Pomodoro timer with an animated kawaii tomato mascot, staircase progression, habit goals, analytics, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
